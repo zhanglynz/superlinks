@@ -20,9 +20,9 @@ This book collects super links.
 
 # Videos
 
-**Learn how to learn** 
+## Learn how to learn {-}
 
-URL: https://www.youtube.com/watch?v=vd2dtkMINIw
+**URL**: https://www.youtube.com/watch?v=vd2dtkMINIw
 
 Key ideas: focused mode vs. diffusion mode; sleep is important; chunks; recall; practice and repetition; brain muscles
 
