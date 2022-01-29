@@ -29,8 +29,27 @@ Key ideas: focused mode vs. diffusion mode; sleep is important; chunks; recall; 
 Comments: It's great. Although, some parts may be kind of boring but I can and I believe you can as well get something very useful from watching the video. A tip: the QA part is wonderful.
 
 
-
 # Books
 
+## R related
+
+1. Git doc, ***URL:* https://docs.github.com/en/get-started/quickstart/github-flow
+
+1. 
+
 # Articles
+
+## R related 
+
+1. Top 7 Best R Shiny Books, **URL:** https://www.r-bloggers.com/2022/01/top-7-best-r-shiny-books-and-courses-that-are-completely-free/
+
+    - Mastering Shiny by Hadley Wickham
+    - Outstanding User Interfaces With Shiny by David Granjon
+    - Engineering Production-Grade Shiny Apps by Colin Fay
+    - The Shiny AWS Book by Matt Dancho
+    - JavaScript 4 Shiny by Colin Fay
+    - A gRadual intRoduction to Shiny by Ted Laderas
+    - How to Start Shiny by RStudio
+    
+1. 
 
