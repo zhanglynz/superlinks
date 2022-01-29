@@ -35,7 +35,9 @@ Comments: It's great. Although, some parts may be kind of boring but I can and I
 
 1. Git doc, ***URL:* https://docs.github.com/en/get-started/quickstart/github-flow
 
-1. 
+1. Git quick guide, **URL:** https://rogerdudler.github.io/git-guide/
+
+1. Git hands-on session within RStudio, **URL:** https://inbo.github.io/git-course/course_rstudio.html
 
 # Articles
 
