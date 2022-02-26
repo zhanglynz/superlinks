@@ -3,3 +3,5 @@ books
 articles
 r-related
 r-related-1
+my-books
+my-homepageblog

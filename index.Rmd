@@ -18,6 +18,24 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This book collects super links.
 
+# My books
+
+1. https://zhanglynz.github.io/r_book_17_howtos/
+1. https://zhanglynz.github.io/practicalR/
+1. https://zhanglynz.github.io/understanding_sampling/
+1. https://zhanglynz.github.io/tip_collection/
+1. https://zhanglynz.github.io/my_lessons_in_using_R/
+1. https://zhanglynz.github.io/elementary-maths/
+1. https://zhanglynz.github.io/LearnGit/
+1. https://zhanglynz.github.io/dealing_with_strings/
+1. https://zhanglynz.github.io/dealing_with_big_data/
+1. https://zhanglynz.github.io/rare_r_functions/
+1. https://zhanglynz.github.io/python_notes/
+
+# My homepage/blog
+
+https://larryzhangnz.netlify.app/
+
 # Videos
 
 ## Learn how to learn {-}
