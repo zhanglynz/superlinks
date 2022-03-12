@@ -27,6 +27,7 @@ This book collects super links.
 1. https://zhanglynz.github.io/my_lessons_in_using_R/
 1. https://zhanglynz.github.io/elementary-maths/
 1. https://zhanglynz.github.io/mathematical-experiments/
+1. https://zhanglynz.github.io/algebra_notes/
 1. https://zhanglynz.github.io/LearnGit/
 1. https://zhanglynz.github.io/dealing_with_strings/
 1. https://zhanglynz.github.io/dealing_with_big_data/
