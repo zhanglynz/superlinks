@@ -76,6 +76,13 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
     
 1. 
 
+## SQL
+
+1. https://www.r-bloggers.com/2022/04/iterating-over-multiple-database-tables-with-r/ 
+Iterating over multiple database tables with R
+
+1. https://www.johnmackintosh.net/blog/2022-04-06-sql-schema-query/
+
 # Tools
 
 1. https://quarto.org/
