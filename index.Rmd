@@ -74,7 +74,7 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
     - A gRadual intRoduction to Shiny by Ted Laderas
     - How to Start Shiny by RStudio
     
-1. 
+1. Rmarkdown tips, such as using tabs **URL:** https://www.r-bloggers.com/2022/09/r-markdown-lesser-known-tips-tricks-4-looks-better-works-better/
 
 ## SQL
 
