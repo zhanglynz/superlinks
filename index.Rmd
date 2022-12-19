@@ -113,3 +113,28 @@ Software Development Resources for Data Scientists
 1. knit index.Rmarkdown
 1. manually dealing with in-line math formulas---using Find and Replace
 1. commit to Github		
+
+## Creating R package
+
+```{r, eval=FALSE}
+library(devtools)
+create_package("~/path/to/regexcite") # only use once; to scaffold a new R package
+
+library(devtools)
+use_r("func_name") + (in the source editor and put the cursor somewhere in the strsplit1() function definition. Now do Code > Insert roxygen skeleton.)
+load_all()
+check()
+Edit DESCRIPTION
+use_mit_license() # only use once
+document()
+check() # again
+install()
+use_testthat() # only use it once
+use_test("strsplit1")
+use_package("some_a_package") # dependence
+Gitlab # Git the project; push to Gitlab
+use_readme_rmd() # only use it once
+check() # again 
+install()
+```
+
