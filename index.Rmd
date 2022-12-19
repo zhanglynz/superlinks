@@ -42,7 +42,7 @@ https://larryzhangnz.netlify.app/
 
 # Videos
 
-## Learn how to learn {-}
+## Learn how to learn 
 
 **URL**: https://www.youtube.com/watch?v=vd2dtkMINIw
 
@@ -50,8 +50,16 @@ Key ideas: focused mode vs. diffusion mode; sleep is important; chunks; recall; 
 
 Comments: It's great. Although, some parts may be kind of boring but I can and---I believe---you can as well get something very useful from watching the video. A tip: the QA part is wonderful.
 
+## Learn coding
+
+**URL**: https://www.youtube.com/freecodecamp
 
 # Books
+
+## A source
+
+1. https://www.linuxlinks.com/best-free-open-source-software-documentation/
+
 
 ## R related
 
@@ -60,6 +68,24 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 1. Git quick guide, **URL:** https://rogerdudler.github.io/git-guide/
 
 1. Git hands-on session within RStudio, **URL:** https://inbo.github.io/git-course/course_rstudio.html
+
+## Python
+
+1. **URL:** https://automatetheboringstuff.com/
+
+## Java
+
+1. https://math.hws.edu/javanotes/
+
+1. https://greenteapress.com/thinkjava7/html/
+
+## Java script
+
+1. https://eloquentjavascript.net/
+
+## Bayes
+
+1. **URL:** https://www.bayesrulesbook.com/chapter-1.html
 
 # Articles
 

@@ -11,3 +11,10 @@ my-workflows
 book-project
 my-blog
 creating-r-package
+learn-coding
+a-source
+python
+java
+java-script
+bayes
+learn-how-to-learn
