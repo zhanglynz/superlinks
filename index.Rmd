@@ -20,6 +20,7 @@ This book collects super links.
 
 # My books
 
+1. https://zhanglynz.github.io/learn_R_in_x_lessons/
 1. https://zhanglynz.github.io/r_book_17_howtos/
 1. https://zhanglynz.github.io/practicalR/
 1. https://zhanglynz.github.io/sampling_b/
@@ -93,3 +94,22 @@ Awesome data analysis screencasts from a top Data Scientist
 
 1. https://www.r-bloggers.com/2022/05/software-development-resources-for-data-scientists/
 Software Development Resources for Data Scientists
+
+# My workflows
+
+## Book project
+
+1. create a repo at Github
+1. create a project at RStudio
+1. run BookStarter::start_book()
+1. edit index.Rmd
+1. edit _bookdown.yml
+1. chapters 1, 2, 3, ....
+
+## My blog
+
+1. run ./R/to_have_a_new_post.R
+1. edit index.Rmarkdown: always adding "math: true" in the yaml header; always using ````<p>$$math formula$$</p>```` 
+1. knit index.Rmarkdown
+1. manually dealing with in-line math formulas---using Find and Replace
+1. commit to Github		

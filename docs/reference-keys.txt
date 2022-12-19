@@ -7,3 +7,6 @@ my-books
 my-homepageblog
 tools
 sql
+my-workflows
+book-project
+my-blog
