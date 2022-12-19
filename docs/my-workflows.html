@@ -218,10 +218,18 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb1-13"><a href="my-workflows.html#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="fu">use_testthat</span>() <span class="co"># only use it once</span></span>
 <span id="cb1-14"><a href="my-workflows.html#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="fu">use_test</span>(<span class="st">&quot;strsplit1&quot;</span>)</span>
 <span id="cb1-15"><a href="my-workflows.html#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="fu">use_package</span>(<span class="st">&quot;some_a_package&quot;</span>) <span class="co"># dependence</span></span>
-<span id="cb1-16"><a href="my-workflows.html#cb1-16" aria-hidden="true" tabindex="-1"></a>Gitlab <span class="co"># Git the project; push to Gitlab</span></span>
-<span id="cb1-17"><a href="my-workflows.html#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="fu">use_readme_rmd</span>() <span class="co"># only use it once</span></span>
-<span id="cb1-18"><a href="my-workflows.html#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="fu">check</span>() <span class="co"># again </span></span>
-<span id="cb1-19"><a href="my-workflows.html#cb1-19" aria-hidden="true" tabindex="-1"></a><span class="fu">install</span>()</span></code></pre></div>
+<span id="cb1-16"><a href="my-workflows.html#cb1-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-17"><a href="my-workflows.html#cb1-17" aria-hidden="true" tabindex="-1"></a>Gitlab<span class="sc">/</span>Github <span class="co"># Git the project; push to Gitlab</span></span>
+<span id="cb1-18"><a href="my-workflows.html#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="co"># push an existing repository from the command line</span></span>
+<span id="cb1-19"><a href="my-workflows.html#cb1-19" aria-hidden="true" tabindex="-1"></a>git init</span>
+<span id="cb1-20"><a href="my-workflows.html#cb1-20" aria-hidden="true" tabindex="-1"></a>git commit <span class="sc">-</span>m <span class="st">&quot;first commit&quot;</span></span>
+<span id="cb1-21"><a href="my-workflows.html#cb1-21" aria-hidden="true" tabindex="-1"></a>git branch <span class="sc">-</span>M main</span>
+<span id="cb1-22"><a href="my-workflows.html#cb1-22" aria-hidden="true" tabindex="-1"></a>git remote add origin git<span class="sc">@</span>github.com<span class="sc">:</span>zhanglynz<span class="sc">/</span>BookStarter.git</span>
+<span id="cb1-23"><a href="my-workflows.html#cb1-23" aria-hidden="true" tabindex="-1"></a>git push <span class="sc">-</span>u origin main</span>
+<span id="cb1-24"><a href="my-workflows.html#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-25"><a href="my-workflows.html#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="fu">use_readme_rmd</span>() <span class="co"># only use it once</span></span>
+<span id="cb1-26"><a href="my-workflows.html#cb1-26" aria-hidden="true" tabindex="-1"></a><span class="fu">check</span>() <span class="co"># again </span></span>
+<span id="cb1-27"><a href="my-workflows.html#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="fu">install</span>()</span></code></pre></div>
 
 </div>
 </div>
