@@ -158,7 +158,15 @@ install()
 use_testthat() # only use it once
 use_test("strsplit1")
 use_package("some_a_package") # dependence
-Gitlab # Git the project; push to Gitlab
+
+Gitlab/Github # Git the project; push to Gitlab
+# push an existing repository from the command line
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:zhanglynz/BookStarter.git
+git push -u origin main
+
 use_readme_rmd() # only use it once
 check() # again 
 install()
