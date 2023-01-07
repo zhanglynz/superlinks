@@ -20,6 +20,7 @@ This book collects super links.
 
 # My books
 
+1. https://zhanglynz.github.io/work_out_data/
 1. https://zhanglynz.github.io/learn_R_in_x_lessons/
 1. https://zhanglynz.github.io/r_book_17_howtos/
 1. https://zhanglynz.github.io/practicalR/
