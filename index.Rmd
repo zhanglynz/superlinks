@@ -70,6 +70,10 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 
 1. Git hands-on session within RStudio, **URL:** https://inbo.github.io/git-course/course_rstudio.html
 
+1. Package development: https://mirai-solutions.ch/techguides/index.html
+
+1. https://docs.posit.co/ide/user/
+
 ## Python
 
 1. **URL:** https://automatetheboringstuff.com/
@@ -104,12 +108,28 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
     
 1. Rmarkdown tips, such as using tabs **URL:** https://www.r-bloggers.com/2022/09/r-markdown-lesser-known-tips-tricks-4-looks-better-works-better/
 
+1. Shiny dashboard: https://www.r-bloggers.com/2023/03/how-to-customise-the-style-of-your-shinydashboard-shiny-app/
+
+1. Stringr vss base R: https://stringr.tidyverse.org/articles/from-base.html
+
+1. https://stackoverflow.com/questions/35852722/how-do-you-read-a-password-protected-excel-file-into-r
+
+1. https://support.posit.co/hc/en-us/articles/219949047-Installing-older-versions-of-packages
+
+1. https://cran.r-project.org/web/packages/janitor/vignettes/janitor.html
+
 ## SQL
 
 1. https://www.r-bloggers.com/2022/04/iterating-over-multiple-database-tables-with-r/ 
 Iterating over multiple database tables with R
 
 1. https://www.johnmackintosh.net/blog/2022-04-06-sql-schema-query/
+
+## Geo
+
+1. https://rapidlasso.com/2019/05/06/how-many-decimal-digits-for-storing-longitude-latitude/#:~:text=Longitude%20and%20latitude%20coordinates%20are,right%20of%20the%20decimal%20points
+
+1. https://www.r-bloggers.com/2023/03/how-to-geocode-in-r-for-free/
 
 # Tools
 
