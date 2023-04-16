@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Preface {-}
 
-This book collects super links.
+This book collects super links. More will come ...
 
 # My books
 
