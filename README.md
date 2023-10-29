@@ -1,2 +1,2 @@
 # superlinks
-all super links plus descriptions
+all useful super links plus descriptions
