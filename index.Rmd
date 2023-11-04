@@ -72,9 +72,14 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 
 1. Git hands-on session within RStudio, **URL:** https://inbo.github.io/git-course/course_rstudio.html
 
+1. https://github.com/git-guides
+
 1. Package development: https://mirai-solutions.ch/techguides/index.html
 
 1. https://docs.posit.co/ide/user/
+
+1. Package doc: https://rdrr.io/ 
+
 
 ## Python
 
@@ -182,13 +187,14 @@ use_testthat() # only use it once
 use_test("strsplit1")
 use_package("some_a_package") # dependence
 
-Gitlab/Github # Git the project; push to Gitlab
-# push an existing repository from the command line
-git init
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:zhanglynz/BookStarter.git
-git push -u origin main
+Gitlab # Git the project; push to Gitlab
+# push an existing repository from the command line (Gitbash)
+cd existing_folder
+git init --initial-branch=main
+git remote add origin git@gitlab.com:larry_zhang_nz/testpkg05nov2023.git
+git add .
+git commit -m "Initial commit"
+git push --set-upstream origin main
 
 use_readme_rmd() # only use it once
 check() # again 
