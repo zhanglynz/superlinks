@@ -33,7 +33,7 @@ This book collects super links. More will come ...
 1. https://zhanglynz.github.io/elementary-maths/
 1. https://zhanglynz.github.io/mathematical-experiments/
 1. https://zhanglynz.github.io/algebra_notes/
-1. https://zhanglynz.github.io/LearnGit/
+<!-- 1. https://zhanglynz.github.io/LearnGit/ -->
 1. https://zhanglynz.github.io/dealing_with_strings/
 1. https://zhanglynz.github.io/dealing_with_big_data/
 1. https://zhanglynz.github.io/rare_r_functions/
