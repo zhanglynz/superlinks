@@ -19,3 +19,5 @@ java-script
 bayes
 learn-how-to-learn
 geo
+forum-and-blog-sites
+paper-in-tex

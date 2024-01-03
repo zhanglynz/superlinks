@@ -58,6 +58,11 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 
 **URL**: https://www.youtube.com/freecodecamp
 
+# Forum and Blog Sites
+
+1. https://cosx.org/
+1. https://ivelasq.rbind.io/
+
 # Books
 
 ## A source
@@ -66,6 +71,8 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 
 
 ## R related
+
+1. https://jhudatascience.org/tidyversecourse/
 
 1. R Without Statistics
 https://book.rwithoutstatistics.com/
@@ -157,11 +164,22 @@ Software Development Resources for Data Scientists
 
 ## Book project
 
+R markdown book:
+
 1. create a repo at Github
 1. create a project at RStudio
 1. run BookStarter::start_book()
 1. edit index.Rmd
 1. edit _bookdown.yml
+1. chapters 1, 2, 3, ....
+
+Quarto book:
+
+1. create a repo at Github
+1. create a project at RStudio
+1. run BookStarter::q_start_book()
+1. edit index.Rmd
+1. edit _quarto.yml
 1. chapters 1, 2, 3, ....
 
 ## My blog
@@ -170,7 +188,13 @@ Software Development Resources for Data Scientists
 1. edit index.Rmarkdown: always adding "math: true" in the yaml header; always using ````<p>$$math formula$$</p>```` 
 1. knit index.Rmarkdown
 1. manually dealing with in-line math formulas---using Find and Replace
-1. commit to Github		
+1. commit to Github	
+
+## Paper in Tex
+
+1. create a repo at Github
+1. create a project at RStudio
+1. run BookStarter::start_tex(tex_file_name = "my_paper.tex")
 
 ## Creating R package
 
