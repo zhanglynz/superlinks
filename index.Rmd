@@ -60,8 +60,10 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 
 # Forum and Blog Sites
 
-1. https://cosx.org/
-1. https://ivelasq.rbind.io/
+1. captial of statistics: https://cosx.org/
+1. a blog: https://ivelasq.rbind.io/
+1. tidyverse: https://www.tidyverse.org/
+
 
 # Books
 
@@ -72,7 +74,9 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 
 ## R related
 
-1. https://jhudatascience.org/tidyversecourse/
+1. telling story with data: https://tellingstorieswithdata.com/
+
+1. Tidyverse Skills for Data Science: https://jhudatascience.org/tidyversecourse/
 
 1. R Without Statistics
 https://book.rwithoutstatistics.com/
