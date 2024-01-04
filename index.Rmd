@@ -60,6 +60,7 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 
 # Forum and Blog Sites
 
+1. Quarto: https://quarto.org/
 1. coding club: https://www.hertiecodingclub.com/
 1. Real World Data Science: https://realworlddatascience.net/
 1. captial of statistics: https://cosx.org/
