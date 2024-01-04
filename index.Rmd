@@ -60,9 +60,13 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 
 # Forum and Blog Sites
 
+1. coding club: https://www.hertiecodingclub.com/
+1. Real World Data Science: https://realworlddatascience.net/
 1. captial of statistics: https://cosx.org/
 1. a blog: https://ivelasq.rbind.io/
 1. tidyverse: https://www.tidyverse.org/
+1. a blog: https://www.mm218.dev/blog
+1. a blog: https://rfortherestofus.com/blog
 
 
 # Books
@@ -73,6 +77,8 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 
 
 ## R related
+
+1. EDA With R: https://bookdown.org/rdpeng/exdata/
 
 1. telling story with data: https://tellingstorieswithdata.com/
 
