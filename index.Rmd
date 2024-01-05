@@ -149,6 +149,8 @@ https://book.rwithoutstatistics.com/
 
 ## SQL
 
+1. duckdb: https://duckdb.org/
+
 1. https://www.r-bloggers.com/2022/04/iterating-over-multiple-database-tables-with-r/ 
 Iterating over multiple database tables with R
 
