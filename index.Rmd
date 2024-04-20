@@ -58,6 +58,10 @@ Comments: It's great. Although, some parts may be kind of boring but I can and--
 
 **URL**: https://www.youtube.com/freecodecamp
 
+## Peng's Posdcast
+
+**URL**: https://nssdeviations.com/
+
 # Forum and Blog Sites
 
 1. Quarto: https://quarto.org/
