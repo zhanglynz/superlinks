@@ -20,6 +20,7 @@ This book collects super links. More will come ...
 
 # My books
 
+1. https://adrnotes.netlify.app/
 1. https://zhanglynz.github.io/python_book/
 1. https://zhanglynz.github.io/readingR4DS/
 1. https://zhanglynz.github.io/djr_book/
