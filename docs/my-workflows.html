@@ -23,7 +23,7 @@
 <meta name="author" content="Lingyun Zhang" />
 
 
-<meta name="date" content="2025-06-06" />
+<meta name="date" content="2025-06-13" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -208,6 +208,27 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li>edit _quarto.yml</li>
 <li>chapters 1, 2, 3, ….</li>
 </ol>
+<p>Quarto book published on netlify:</p>
+<ol style="list-style-type: decimal">
+<li>Create a repo at Gitlab</li>
+<li>In RStudio:
+<ul>
+<li>File &gt; New Project &gt; New Directory &gt; Quarto Book …;</li>
+<li>Change <code>index.qmd</code>, <code>_quarto.yml</code></li>
+<li>Change <code>.gitignore</code> file (add <code>.quarto/</code> and <code>.Rproj.user/</code> into the file)</li>
+<li>Use terminal:
+<ul>
+<li><code>git remote add origin https://...</code></li>
+<li><code>git add .</code></li>
+<li><code>git commit -m "a commit"</code></li>
+<li><code>git push -u origin main</code></li>
+</ul></li>
+</ul></li>
+</ol>
+<ul>
+<li>Log into netlify and do the settting up</li>
+<li>Update <code>superlinks</code> book</li>
+</ul>
 </div>
 <div id="my-blog" class="section level2 hasAnchor" number="8.2">
 <h2><span class="header-section-number">8.2</span> My blog<a href="my-workflows.html#my-blog" class="anchor-section" aria-label="Anchor link to header"></a></h2>

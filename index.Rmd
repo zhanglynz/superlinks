@@ -203,6 +203,22 @@ Quarto book:
 1. edit _quarto.yml
 1. chapters 1, 2, 3, ....
 
+Quarto book published on netlify:
+
+1. Create a repo at Gitlab
+1. In RStudio: 
+    - File > New Project > New Directory > Quarto Book ...; 
+    - Change `index.qmd`, `_quarto.yml`
+    - Change `.gitignore` file (add `.quarto/` and `.Rproj.user/` into the file)
+    - Use terminal: 
+        - `git remote add origin https://...`
+        - `git add .`
+        - `git commit -m "a commit"`
+        - `git push -u origin main`
+- Log into netlify and do the settting up
+- Update `superlinks` book
+    
+
 ## My blog
 
 1. run ./R/to_have_a_new_post.R
