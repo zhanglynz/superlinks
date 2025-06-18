@@ -266,3 +266,149 @@ check() # again
 install()
 ```
 
+# Useful Git commands
+
+Git is a powerful version control system with a wide range of commands. Here are some of the most useful and commonly used Git commands:
+
+## Basic Commands
+
+1. **git init**  
+   Initializes a new Git repository in the current directory.
+
+2. **git clone [repository_url]**  
+   Clones a remote repository to your local machine.
+
+3. **git status**  
+   Shows the status of your working directory, including tracked, untracked, and modified files.
+
+4. **git add [file]**  
+   Adds a file to the staging area. Use `git add .` to add all changes.
+
+5. **git commit -m "[commit_message]"**  
+   Commits the staged changes with a descriptive message.
+
+6. **git push [remote] [branch]**  
+   Pushes your local commits to a remote repository. Example: `git push origin main`.
+
+7. **git pull [remote] [branch]**  
+   Fetches changes from a remote repository and merges them into your current branch.
+
+8. **git fetch [remote]**  
+   Downloads changes from a remote repository but does not merge them.
+
+---
+
+## Branching and Merging
+
+9. **git branch**  
+   Lists all local branches. Use `-r` for remote branches or `-a` for all branches.
+
+10. **git branch [branch_name]**  
+    Creates a new branch.
+
+11. **git checkout [branch_name]**  
+    Switches to the specified branch.
+
+12. **git checkout -b [new_branch_name]**  
+    Creates and switches to a new branch.
+
+13. **git merge [branch_name]**  
+    Merges the specified branch into the current branch.
+
+14. **git rebase [branch_name]**  
+    Reapplies commits from the current branch onto the specified branch.
+
+---
+
+## Viewing History and Changes
+
+15. **git log**  
+    Displays the commit history. Use `--oneline` for a compact view.
+
+16. **git diff**  
+    Shows differences between the working directory and the staging area.
+
+17. **git diff [commit1] [commit2]**  
+    Shows differences between two commits.
+
+18. **git show [commit]**  
+    Displays details about a specific commit.
+
+---
+
+### Undoing Changes
+19. **git reset [file]**  
+    Unstages a file while keeping changes in the working directory.
+
+20. **git reset --hard [commit]**  
+    Resets the working directory and staging area to a specific commit (use with caution).
+
+21. **git revert [commit]**  
+    Creates a new commit that undoes the changes of a previous commit.
+
+22. **git checkout -- [file]**  
+    Discards changes in the working directory for a specific file.
+
+---
+
+## Remote Repositories
+
+23. **git remote -v**  
+    Lists all remote repositories.
+
+24. **git remote add [name] [url]**  
+    Adds a new remote repository.
+
+25. **git remote remove [name]**  
+    Removes a remote repository.
+
+26. **git push --set-upstream [remote] [branch]**  
+    Sets the upstream branch for the current local branch.
+
+---
+
+## Stashing
+
+27. **git stash**  
+    Temporarily saves changes in the working directory.
+
+28. **git stash pop**  
+    Applies the most recently stashed changes and removes them from the stash.
+
+29. **git stash list**  
+    Lists all stashed changes.
+
+30. **git stash apply**  
+    Applies stashed changes without removing them from the stash.
+
+---
+
+## Tagging
+
+31. **git tag [tag_name]**  
+    Creates a lightweight tag for the current commit.
+
+32. **git tag -a [tag_name] -m "[message]"**  
+    Creates an annotated tag with a message.
+
+33. **git push [remote] --tags**  
+    Pushes tags to a remote repository.
+
+---
+
+## Advanced Commands
+
+34. **git bisect**  
+    Helps find the commit that introduced a bug using binary search.
+
+35. **git cherry-pick [commit]**  
+    Applies a specific commit from one branch to another.
+
+36. **git reflog**  
+    Shows a log of all reference changes, useful for recovering lost commits.
+
+37. **git clean -fd**  
+    Removes untracked files and directories from the working directory.
+
+---
+

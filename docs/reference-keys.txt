@@ -22,3 +22,12 @@ geo
 forum-and-blog-sites
 paper-in-tex
 pengs-posdcast
+useful-git-commands
+basic-commands
+branching-and-merging
+viewing-history-and-changes
+undoing-changes
+remote-repositories
+stashing
+tagging
+advanced-commands
