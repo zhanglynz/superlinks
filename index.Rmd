@@ -229,13 +229,13 @@ In VS code
 1. If in _quarto.yml, "output-dir: docs", then create "docs" folder
 1. To render and preview
     - open a new terminal, and type "quarto render"
-	  - type "quarto preview"
+    - type "quarto preview"
 1. Create an EMPTY repo at Github
 1. Do local setups
     - git init
- 	  - git remote add origin https://...
-	  - git add .
-	  - git commit -m "initial commit"
+    - git remote add origin https://...
+    - git add .
+    - git commit -m "initial commit"
   	- git push -u origin main
 1. Github setups
     - Settings >> Pages >> ...
