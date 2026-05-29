@@ -20,6 +20,7 @@ This book collects super links. More will come ...
 
 # My books
 
+1. https://zhanglynz.github.io/linus_notes/
 1. https://zhanglynz.github.io/datatable_notes/
 1. https://zhanglynz.github.io/python_ex/
 1. https://weirdr.netlify.app/
@@ -211,7 +212,7 @@ Quarto book published on netlify:
 1. Create a repo at Gitlab
 1. In RStudio: 
     - File > New Project > New Directory > Quarto Book ...; 
-    - Change `index.qmd`, `_quarto.yml`
+    - Change `index.qmd`, `_quarto.yml` (add `output_dir: "docs"`)
     - Change `.gitignore` file (add `.quarto/` and `.Rproj.user/` into the file)
     - Use terminal: 
         - `git remote add origin https://...`
